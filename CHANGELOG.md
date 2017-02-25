@@ -2,7 +2,7 @@
 
 ## 2017-2-24 Chase Hennion
 
-* Adding work for lectures 99 through 101 in Section 4.
+* Adding work for lectures 99 through 102 in Section 4.
 
 ## 2017-2-21 Chase Hennion
 
