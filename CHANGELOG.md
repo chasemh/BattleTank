@@ -1,5 +1,9 @@
 # Change Log
 
+## 2017-3-2 Chase Hennion
+
+* Adding work from lectures 108 through 112 in Section 4.
+
 ## 2017-3-1 Chase Hennion
 
 * Adding work from lecture 107 in Section 4.
